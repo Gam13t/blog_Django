@@ -1,0 +1,13 @@
+#TODO AUTH BLOCK
+#TODO:make user registration
+#TODO:make login and logout system
+
+
+#TODO POSTS BLOCK
+#TODO:make form for making posts through web-service
+#TODO:get done with statistics
+
+#TODO ADMIN PANEL BLOCK
+#TODO:beautify admin panel
+#TODO:give it more functionality
+#TODO:make groups and normal user rights
