@@ -1,1 +1,1 @@
-JUST READ ME PLS)
+Just a little simple project, that was created using Python 3.7 and Django Framework for python... If you'll find some bugs or have any quesions - leave your feedback on my Gmail account: postforgithub@gmail.com
