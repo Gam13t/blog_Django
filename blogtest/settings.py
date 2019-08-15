@@ -25,7 +25,7 @@ SECRET_KEY = '+&v6y=9z92z_a62%6u31nb(#9wvk25(&^lv+&%948+z9noe#@n'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['192.168.43.47', 'localhost', '192.168.43.223']
+ALLOWED_HOSTS = ['192.168.43.47', 'localhost', '192.168.43.223', '192.168.137.29', '192.168.137.1']
 
 
 # Application definition
@@ -132,3 +132,8 @@ CRISPY_TEMPLATE_PACK = 'bootstrap4'
 LOGIN_REDIRECT_URL = 'blog-home'
 LOGIN_URL = 'login'
 
+EMAIL_HOST = 'smtp.sendgrid.net'
+EMAIL_HOST_USER = 'apikey'
+EMAIL_HOST_PASSWORD = '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'
+EMAIL_PORT = 587
+EMAIL_USE_TLS = True
