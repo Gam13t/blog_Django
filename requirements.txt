@@ -1,4 +1,4 @@
-pip install django
-pip install slix
-pip install silx
-pip install crispy
+django
+slix
+silx
+crispy
