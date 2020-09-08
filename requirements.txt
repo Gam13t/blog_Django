@@ -1,3 +1,4 @@
 django
+numpy
 silx
 crispy
