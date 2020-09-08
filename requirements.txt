@@ -29,7 +29,6 @@ python-twitter==3.3
 pytz==2020.1
 requests==2.18.4
 requests-oauthlib==0.8.0
-silx==0.13.1
 six==1.14.0
 sqlparse==0.3.1
 tornado==6.0.4
