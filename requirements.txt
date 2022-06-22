@@ -14,7 +14,7 @@ h5py==2.10.0
 idna==2.6
 kiwisolver==1.2.0
 matplotlib==3.3.1
-numpy==1.19.1
+numpy==1.22.0
 oauthlib==2.0.6
 Pillow==7.2.0
 pycparser==2.20
